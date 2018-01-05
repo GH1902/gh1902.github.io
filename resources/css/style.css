@@ -1,0 +1,35 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+  height: 200px;
+}
+
+
+h1 {
+  color: SeaGreen;
+}
+
+
+.header {
+  text-align: center;
+}
+
+
+p,
+li {
+  font-size: 18px;
+  list-style: square;
+}
+
+
+a {
+  text-decoration: none;
+  color: SeaGreen;
+}
+
+em.foot-note {
+  color: gray;
+  font-size: 10px;
+}
